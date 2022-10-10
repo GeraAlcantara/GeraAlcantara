@@ -28,7 +28,7 @@ And to give back a little with what the internet has given me, I have a small [T
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
-<p style="padding-bottom:40px"></p>
+<br>
 
 #
 
