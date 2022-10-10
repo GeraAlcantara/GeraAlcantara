@@ -60,12 +60,6 @@ And to give back a little with what the internet has given me, I have a small [T
         <a target="_blank" href="https://www.udemy.com/course/the-complete-javascript-course/">Jonas Schmedtmann - The Complete JavaScript Course</a>
       </li>
     </ul>
-    <h3>Pay</h3>
-    <ul>
-      <li>
-        <a target="_blank" href="https://www.udemy.com/course/the-complete-javascript-course/">Jonas Schmedtmann - The Complete JavaScript Course</a>
-      </li>
-    </ul>
     <h3>CSS Resources</h3>
     <ul>
       <li>
