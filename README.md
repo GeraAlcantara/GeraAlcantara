@@ -34,7 +34,7 @@ And to give back a little with what the internet has given me, I have a small [T
 
 ### 📈 Stats
 
-[![Forrest's GitHub stats]](https://github-readme-stats.vercel.app/api?username=GeraAlcantara&show_icons=true&theme=tokyonight)
+[![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeraAlcantara&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
 <p style="padding-bottom:10px"></p>
 
