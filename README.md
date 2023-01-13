@@ -34,8 +34,8 @@ And to give back a little with what the internet has given me, I have a small [T
 
 ### 📈 Stats
 
-[![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeraAlcantara&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GeraAlcantara)](https://git.io/streak-stats)
 <p style="padding-bottom:10px"></p>
 
 #
