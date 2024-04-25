@@ -4,7 +4,7 @@
 
 `Senior Front-end developer`
 
-I currently work as Team Lead Development at Mexico Development Center which is a company in the e-learning industry.
+I currently work as Senior Front-end developer at Mexico Development Center which is a company in the e-learning industry.
 
 Evangelist of collaboration and constant growth, I really enjoy sharing what I have learned over the years with my peers, colleagues, friends and also learning from them.
 
