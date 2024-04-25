@@ -2,7 +2,7 @@
 
 # Gerardo Alcantara
 
-`Team Lead developer Front-end`
+`Senior Front-end developer`
 
 I currently work as Team Lead Development at Mexico Development Center which is a company in the e-learning industry.
 
